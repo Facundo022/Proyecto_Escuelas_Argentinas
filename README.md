@@ -3,10 +3,12 @@ Proyecto enfocado en la escolaridad en Argentina
 
 
 Título: Análisis de Desempeño Educativo y Abandono Escolar en Escuelas Públicas de Argentina
+
 Objetivo:
 Analizar los factores asociados al rendimiento académico y al abandono escolar en las escuelas públicas de Argentina.
 Identificar patrones y correlaciones entre variables sociodemográficas (nivel socioeconómico, ubicación geográfica, infraestructura escolar, etc.) y el desempeño estudiantil.
 Desarrollar un modelo predictivo para identificar estudiantes en riesgo de abandono escolar y proporcionar recomendaciones para mejorar la retención escolar.
+
 Entregables:
 Informe detallado con los resultados del análisis de factores asociados al abandono escolar.
 Modelo predictivo que identifique a los estudiantes en riesgo de abandonar la escuela.
